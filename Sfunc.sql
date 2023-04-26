@@ -1,5 +1,5 @@
 /*
-Objective: Create a function to determin user level
+Objective: Create a function to determine user level
 Author Name: Tushar Raju Gaikwad
 Rno: 47
 PRN Number: UCS21M1047
