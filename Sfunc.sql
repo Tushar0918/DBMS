@@ -1,7 +1,7 @@
 /*
 Objective: Create a function to determine user level
 Author Name: Tushar Raju Gaikwad
-Rno: 47
+Rno:  47
 PRN Number: UCS21M1047
 Batch: AS3
 */
